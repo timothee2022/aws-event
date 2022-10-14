@@ -1,0 +1,23 @@
+{
+  "name": "aws-event",
+  "version": "1.0.0",
+  "description": "## Project: AWS: Events",
+  "main": "sns-vendor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothee2022/aws-event.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timothee2022/aws-event/issues"
+  },
+  "homepage": "https://github.com/timothee2022/aws-event#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1232.0"
+  }
+}
